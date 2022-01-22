@@ -1,0 +1,27 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "instructors": {
+    "content": [],
+    "website": "test-new-json"
+  },
+  "course_image": {
+    "content": "da53cb71-47a4-44cd-a219-346747577691",
+    "website": "test-new-json"
+  },
+  "course_title": "Testing JSON",
+  "course_description": "",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "123456abc",
+  "course_image_thumbnail": {
+    "content": "da53cb71-47a4-44cd-a219-346747577691",
+    "website": "test-new-json"
+  },
+  "learning_resource_types": [],
+  "site_uid": "be862cad-3613-4604-8f5f-7f407bde0318"
+}
